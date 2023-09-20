@@ -1,12 +1,12 @@
 # SIH-R2-Tigbits
 
 
-##Team Tigbits submission for Smart India Hackathon:
-##SIH Problem ID:1454
-##Problem Statement Title:Create an intelligent system using AI/ML to detect phishing domains which imitate look and feel of genuine domains
+# Team Tigbits submission for Smart India Hackathon:
+# SIH Problem ID:1454
+# Problem Statement Title:Create an intelligent system using AI/ML to detect phishing domains which imitate look and feel of genuine domains
 
-#Organization NTRO
-#Category:Software
+# Organization NTRO
+# Category:Software
 
 Application is created using Flask for making the backend API,and employs two ways user can enter his input:
 1) URl
