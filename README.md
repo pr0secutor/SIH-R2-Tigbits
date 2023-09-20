@@ -15,3 +15,12 @@ Application is created using Flask for making the backend API,and employs two wa
 The application is trained on a Logistic Regression Model and RESNet50 neural network for respective tasks.
 Accuracy is ~96% in Logistic Regression and ~90% in RESNet50.
 
+
+Setup with Python
+
+```bash
+python3 -m .venv venv
+.venv/Scripts/activate
+pip install -r requirements.txt
+```
+`Run application.py`
