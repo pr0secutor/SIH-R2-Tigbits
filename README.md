@@ -12,7 +12,7 @@ Organization NTRO
 Category:Software
 
 Application is created using Flask for making the backend API,and employs two ways user can enter his input:
-1) URl
+1) URL
 2) Snapshot of the website
 
 The application is trained on a Logistic Regression Model and RESNet50 neural network for respective tasks.
