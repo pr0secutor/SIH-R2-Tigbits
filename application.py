@@ -79,6 +79,5 @@ def upload_image():
     if(request.method=='GET'):
         return render_template('upload_image.html')
     
-
 if __name__=="__main__":
-    app.run(host="0.0.0.0",port=8080,debug=True)
+    app.run(host="0.0.0.0",port=8080,debug=True**{'threaded': True, 'processes': 3, 'timeout': 180})
