@@ -16,3 +16,4 @@ flask
 tensorflow
 Pillow
 opencv-python
+gunicorn
